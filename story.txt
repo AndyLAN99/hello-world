@@ -1,0 +1,2 @@
+this is a story for testing.
+The story file is modified for the first time.
