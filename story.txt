@@ -4,3 +4,6 @@ The story file is modified for the first time.
 The story will end.
 
 Test story... again
+
+It has worked very well since using the SSH2 connecting...
+ on 19 Feb, 2017.
